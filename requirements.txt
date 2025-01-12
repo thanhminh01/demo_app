@@ -1,0 +1,5 @@
+requests
+pymupdf
+tiktoken
+langchain-openai
+streamlit
